@@ -8,9 +8,18 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
+DotLiquid
+
+
 namespace Microsoft.ApplicationInspector.Common.Properties {
     using System;
-    
+
+    using ShellProgressBar;
+    ShellProgressBar
+    ShellProgressBar
+    ShellProgressBar;
+
+    using DotLiquid;
     
     /// <summary>
     ///   A strongly-typed resource class, for looking up localized strings, etc.
